@@ -1,0 +1,16 @@
+{
+  "name": "first-to-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server/app.js",
+  "scripts": {
+    "start": "node ./server/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "homkai",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.5.0",
+    "koa-static": "^4.0.2"
+  }
+}
